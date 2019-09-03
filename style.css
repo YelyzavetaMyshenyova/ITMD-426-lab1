@@ -1,3 +1,8 @@
+#bottom{
+  margin-top:3%;
+  outline: 3px solid red;
+}
+
 .top{
   margin-top:3%
 }
